@@ -6,12 +6,15 @@ This document describes how to set up and run the Autonomous Robot SLAM system.
 
 ## Downloads
 
-Download the following pre-configured images from the Google Drive link provided in the README.
+To simplify the setup process, pre-configured operating system images are provided.
 
-- Raspberry Pi OS Image
-- Ubuntu VMware Image
+- Raspberry Pi OS Image 
+- Ubuntu VMware Image 
 
-These images already contain the required software and project workspace.
+(Google Drive - https://drive.google.com/drive/folders/1WdoxjPVnfE9Y_7UMNh75WYz2Zste5nzY?usp=sharing )
+The pre-configured Raspberry Pi OS image and Ubuntu VMware image are not publicly hosted due to their large file size.
+If you would like to reproduce this project, please send an email to **sohammodi164@gmail.com** to request access to the Google Drive download link.
+These images include all required dependencies, ROS 2 packages, and the project workspace, allowing the system to be set up without manual installation.
 
 ---
 
@@ -64,6 +67,7 @@ The virtual machine already includes:
 - Project workspace
 
 No additional installation is required.
+
 
 ---
 
@@ -143,5 +147,11 @@ The following files will be generated:
 - Both systems must be connected to the same local network.
 - The provided operating system images are pre-configured for this project.
 - If the workspace is modified, rebuild it before running the project.
+
+
+# actual setup 
+
+<img width="4284" height="5712" alt="IMG_7333" src="https://github.com/user-attachments/assets/a1feb7e3-0f29-47c6-a085-5e770b691586" />
+
 
 
