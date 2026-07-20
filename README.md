@@ -144,5 +144,4 @@ The following files will be generated:
 - The provided operating system images are pre-configured for this project.
 - If the workspace is modified, rebuild it before running the project.
 
-  <img width="1312" height="736" alt="🚗✨Lightning McQueen   Mater Aesthetic Cinematic Duo @theaiclip @a_rt _ verse     Lightning   Mater serving pure cinematic vibes 🎬✨ Emotional frames, Pixar energy, and wallpaper-level visuals in every shot 🚗💛 From side profiles to op" src="https://github.com/user-attachments/assets/2f0d68c2-e273-4812-991e-ee0cbf68df78" />
 
